@@ -18,7 +18,7 @@ Typical usage is
 $ ./lhdetect2 --cmd detect -i ../test/1.png -l
 
 Web-Service
-You can use the web service developed on the basis of the LHDetect2 program
+You can use the web service based on the LHDetect2 program
 http://wheatdb.org/lhdetect2
 
 Contact Information
