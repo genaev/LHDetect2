@@ -6,7 +6,7 @@ LHDetect2 requires OpenCV2 (version 2.0 or higher) library
 http://sourceforge.net/projects/opencvlibrary/
 
 Building and install
-LHDetect2 was developed and testing only in Linux (Ubuntu and CenOS) operating system only.
+LHDetect2 was developed and testing in Linux (Ubuntu and CenOS) operating system only.
 OpenCV2 headers should be installed to /usr/include/opencv directory.
 For building release version
 $ cd Release
